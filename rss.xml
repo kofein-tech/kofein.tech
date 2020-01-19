@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Kofein.tech</title>
+  <link>https://www.kofein.tech</link>
+  <description>Československý podcast o technologiích z Paralelní Polis</description>
+  <image>
+    <url>https://www.kofein.tech/img/logo.png</url>
+    <title>Kofein.tech</title>
+    <link>https>//www.kofein.tech</link>
+  </image>
+  <copyright>Who cares</copyright>
+  <language>sk</language>
+  <language>cs</language>
+  <item>
+    <title>0x01 - Darknet</title>
+    <link>https://www.kofein.tech/podcast/0x01-darknet.mp3</link>
+    <description>O darknetu</description>
+  </item>
+</channel>
+
+</rss>

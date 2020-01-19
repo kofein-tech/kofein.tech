@@ -3,3 +3,35 @@ body {
   color: #FFF;
   font-family: Heletica, sans-serif;
 }
+
+a {
+  text-decoration: none;
+  color: #00FF00;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.linky-lilinky-li {
+  display: block;
+}
+
+#rss-ink {
+  position: absolute;
+  top: 1em;
+  right: 1em;
+}
+
+img {
+  margin-bottom: 0px;
+  margin-left: 1.5ex
+}
+
+h1 {
+  margin-top: 0px;
+}
+
+#logo-tech {
+  font-size: 50%;;
+}
